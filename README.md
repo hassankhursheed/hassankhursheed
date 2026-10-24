@@ -1,5 +1,14 @@
 # Hi there 👋 Hassan Khursheed | AI Engineer
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ## About Me
 
 I’m a Computer Science graduate and an **AI Engineer** specializing in **Generative AI**, **Agentic AI** and **Workflow Automation**. I build LLM applications, multi-agent systems, RAG pipelines and n8n workflows with **LangChain** and **LangGraph**, designed with enterprise safeguards such as **PII protection**, **guardrails**, **human-in-the-loop approval**, **LLM evaluation** and **cost control**.
@@ -33,21 +42,17 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 - **Duration:** Jun 2026 – Present  
 - **Key Contributions:**  
   - Designed an end-to-end recruitment and onboarding automation with 13 n8n workflows, FastAPI and PostgreSQL, including human approval gates, an error queue with replay, a full audit trail and 261 tests at 90% coverage.  
-  - Developed AI agents and multi-agent systems with LangGraph and Deep Agents, including human-in-the-loop control and short- and long-term memory persisted in PostgreSQL.  
-  - Built advanced RAG systems to improve retrieval accuracy and reduce hallucinations: Agentic RAG, Corrective RAG, Self-RAG and vectorless RAG with PageIndex.  
-  - Implemented guardrails to keep sensitive data and unsafe requests away from LLMs: PII redaction, harmful-request blocking and human approval of sensitive actions.  
-  - Evaluated LLM apps in LangSmith and Langfuse, achieving 100% usable outputs in a 36-case AI evaluation, and set up a LiteLLM gateway for fallbacks, routing and cost tracking.  
-  - Automated business workflows in n8n across Google Workspace, Supabase, Telegram and WhatsApp, including AI email drafting with human approval and calendar and task assistants.
+  - Developed AI agents and multi-agent systems with LangGraph and Deep Agents, with human-in-the-loop control and memory persisted in PostgreSQL, plus advanced RAG (Agentic, Corrective, Self-RAG and vectorless RAG with PageIndex) to reduce hallucinations.  
+  - Added guardrails for PII redaction, harmful-request blocking and human approval of sensitive actions, and evaluated LLM apps in LangSmith and Langfuse (100% usable outputs in a 36-case evaluation), with a LiteLLM gateway for fallbacks and cost tracking.  
+  - Automated business workflows in n8n across Google Workspace, Supabase, Telegram and WhatsApp, including AI email drafting with human approval.
 
 ### **Associate Software Engineer AI**
 - **Vitruvia Technologies**, Lahore, Pakistan  
 - **Duration:** Nov 2025 – Jun 2026  
 - **Key Contributions:**  
-  - Developed and maintained FastAPI backend features for a multi-tenant DICOM medical imaging platform serving hospitals and clinics.  
-  - Raised backend test coverage from 41% to 83% with Pytest tests for all API endpoints, core services and Celery background jobs, including DICOM delivery and cloud archiving.  
-  - Delivered 7 product requirements for hospital and clinic accounts, including demo workflow, subscription packages, storage purchasing, medical data archiving and renewal notifications with email alerts.  
-  - Built a shared MinIO storage pool for medical imaging data with per-tenant limits, full data isolation between healthcare providers, on-demand allocation and admin alerts at 85% and 90%.  
-  - Built admin controls for hospital and clinic accounts: usage tracking, Extend/Pause/Logs actions, Stripe payments with transaction history, and 5-sheet Excel usage reports with audit logs.
+  - Developed FastAPI backend features for a multi-tenant DICOM medical imaging platform for hospitals and clinics, delivering 7 product requirements including subscriptions, storage purchasing, data archiving and renewal alerts.  
+  - Raised backend test coverage from 41% to 83% with Pytest tests for API endpoints, core services and Celery background jobs.  
+  - Built a shared MinIO storage pool with per-tenant limits and full data isolation, plus admin controls with usage tracking, Stripe payments and Excel usage reports.
 
 ### **Freelance Online Seller**
 - **Facebook Marketplace**, UK & Europe  
@@ -117,6 +122,13 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 7. **[ML & Web Scraping Projects](https://github.com/hassankhursheed/vitruvia_tech)**  
    - Booking.com and Amazon scrapers, a heart disease prediction app, and machine learning notebooks for regression, classification, ensembles and clustering.  
    - A FastAPI product API with Pydantic validation.  
+
+---
+
+## 🌍 Languages
+
+- **English:** Professional Working Proficiency  
+- **Urdu:** Native or Bilingual Proficiency  
 
 ---
 
