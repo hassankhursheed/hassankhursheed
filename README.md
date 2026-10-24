@@ -71,25 +71,17 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 
 ## 🛠️ Skills
 
-### **Programming Languages**
-- **Python**  
-- **SQL**  
-
-### **AI & LLMs**
+- **Programming Languages:** Python, SQL  
 - **Generative AI:** LangChain, Prompt Engineering, Structured Outputs, Tool Calling, Embeddings  
 - **Agentic AI:** LangGraph, Multi-Agent Systems, ReAct Agents, Human-in-the-Loop, Memory & Persistence, Deep Agents  
 - **RAG:** Agentic RAG, Corrective RAG, Self-RAG, Vectorless RAG (PageIndex), Advanced Retrievers, Chroma, FAISS  
 - **LLMOps & Safety:** LangSmith, Langfuse (tracing, monitoring & evaluation), LiteLLM (LLM gateway), Guardrails, PII Redaction  
 - **LLM Providers:** OpenAI, Anthropic (Claude), Google Gemini, Mistral AI, Hugging Face, Ollama (local LLMs)  
-
-### **Frameworks & Tools**
 - **Workflow Automation:** n8n, Webhooks, API Integration, Error Handling & Retries, Google Workspace (Gmail, Sheets, Calendar, Tasks), Telegram, WhatsApp  
 - **Backend:** FastAPI, REST APIs, SQLAlchemy, SQLModel, Alembic, Celery, Redis, JWT Auth, Multi-tenancy, Stripe  
 - **Databases & Storage:** PostgreSQL, SQLite, Supabase, MinIO  
 - **DevOps, Testing & Tools:** Git, GitHub, Docker, Docker Compose, Render, Pytest, Unit, Integration & White-box Testing, Claude Code, Cursor  
 - **Frontend:** Familiar with React, Next.js, TypeScript, Tailwind CSS, Streamlit, HTML/CSS  
-
-### **Additional Skills**
 - **Web Scraping:** Requests, BeautifulSoup, API-based Data Extraction, JSON/CSV Export  
 - **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, EDA, Data Cleaning, Feature Engineering, Hypothesis Testing  
 - **Machine Learning:** Scikit-learn, XGBoost, Regression, Classification, Clustering (K-means, DBSCAN), Model Evaluation, Hyperparameter Tuning, Ensemble Methods (Bagging, Boosting, Stacking)  
