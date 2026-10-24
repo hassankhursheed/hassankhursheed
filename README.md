@@ -140,4 +140,4 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 
 ## 💡 Interests
 
-I enjoy turning manual business processes into reliable, automated systems, and keeping up with new work in agentic AI, LLM evaluation and AI safety. Next on my list: voice AI, OCR and document AI.
+I enjoy turning manual business processes into reliable, automated systems, and keeping up with new work in agentic AI, LLM evaluation and AI safety.
