@@ -17,7 +17,7 @@
 
 ## About Me
 
-I’m a Computer Science graduate and an **AI Engineer** specializing in **Generative AI**, **Agentic AI** and **Workflow Automation**. I build LLM applications, multi-agent systems, RAG pipelines and n8n workflows with **LangChain** and **LangGraph**, designed with enterprise safeguards such as **PII protection**, **guardrails**, **human-in-the-loop approval**, **LLM evaluation** and **cost control**.
+I’m a Computer Science graduate and an **AI Engineer** who specializes in **Generative AI**, **Agentic AI** and **Workflow Automation**. I build LLM applications, multi-agent systems, RAG pipelines and n8n workflows with **LangChain** and **LangGraph**, designed with enterprise safeguards such as **PII protection**, **guardrails**, **human-in-the-loop approval**, **LLM evaluation** and **cost control**.
 
 I also build **Python backends** with **FastAPI**, **PostgreSQL** and **Docker**, including secure **multi-tenant platforms for healthcare**, and have working knowledge of **web scraping**, **data analysis** and **machine learning**.
 
