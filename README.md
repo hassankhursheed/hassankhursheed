@@ -38,7 +38,6 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 ### **Bachelor of Science in Computer Science (BSCS)**
 - **University of the Punjab (PU)**, Lahore, Pakistan  
 - **Duration:** 2020 – 2024  
-- **CGPA:** 3.55/4.0  
 
 ---
 
@@ -132,14 +131,6 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 8. **[ML & Web Scraping Projects](https://github.com/hassankhursheed/vitruvia_tech)**  
    - Booking.com and Amazon scrapers, a heart disease prediction app, and machine learning notebooks for regression, classification, ensembles and clustering.  
    - A FastAPI product API with Pydantic validation.  
-
----
-
-## 📜 Certifications
-
-- **Introduction to LangChain – Python** · LangChain Academy · [Verify](https://academy.langchain.com/certificates/7eyklgq9bu)  
-- **Introduction to LangGraph – Python** · LangChain Academy · [Verify](https://academy.langchain.com/certificates/fbm2pvgail)  
-- **Quickstart: LangSmith Essentials** · LangChain Academy · [Verify](https://academy.langchain.com/certificates/9qucz7iq9x)  
 
 ---
 
