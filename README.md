@@ -17,7 +17,7 @@
 
 ## About Me
 
-I’m a Computer Science graduate and an **AI Engineer** who specializes in **Generative AI**, **Agentic AI** and **Workflow Automation**. I build LLM applications, multi-agent systems, RAG pipelines and n8n workflows with **LangChain** and **LangGraph**, designed with enterprise safeguards such as **PII protection**, **guardrails**, **human-in-the-loop approval**, **LLM evaluation** and **cost control**.
+I’m a Computer Science graduate and an **AI Engineer** with **1.5+ years** of professional experience in **Generative AI**, **Agentic AI** and **Workflow Automation** solutions that streamline business processes end to end. I build LLM applications, multi-agent systems, RAG pipelines and n8n workflows with **LangChain** and **LangGraph**, designed with enterprise safeguards such as **PII protection**, **guardrails**, **human-in-the-loop approval**, **LLM evaluation** and **cost control**.
 
 I also build **Python backends** with **FastAPI**, **PostgreSQL** and **Docker**, including secure **multi-tenant platforms for healthcare**, and have working knowledge of **web scraping**, **data analysis** and **machine learning**.
 
@@ -36,8 +36,9 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 ## 🎓 Education
 
 ### **Bachelor of Science in Computer Science (BSCS)**
-- **University of the Punjab (PU)**, Pakistan  
+- **University of the Punjab (PU)**, Lahore, Pakistan  
 - **Duration:** 2020 – 2024  
+- **CGPA:** 3.55/4.0  
 
 ---
 
@@ -47,18 +48,18 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 - **Vitruvia Technologies**, Lahore, Pakistan  
 - **Duration:** Jun 2026 – Present  
 - **Key Contributions:**  
-  - Designed an end-to-end recruitment and onboarding automation with 13 n8n workflows, FastAPI and PostgreSQL, including human approval gates, an error queue with replay, a full audit trail and 261 tests at 90% coverage.  
-  - Developed AI agents and multi-agent systems with LangGraph and Deep Agents, with human-in-the-loop control and memory persisted in PostgreSQL, plus advanced RAG (Agentic, Corrective, Self-RAG and vectorless RAG with PageIndex) to reduce hallucinations.  
-  - Added guardrails for PII redaction, harmful-request blocking and human approval of sensitive actions, and evaluated LLM apps in LangSmith and Langfuse (100% usable outputs in a 36-case evaluation), with a LiteLLM gateway for fallbacks and cost tracking.  
-  - Automated business workflows in n8n across Google Workspace, Supabase, Telegram and WhatsApp, including AI email drafting with human approval.
+  - Developed AI agents and multi-agent systems with LangGraph and Deep Agents, with human-in-the-loop control and short-term and long-term memory persisted in PostgreSQL, plus advanced RAG (Agentic, Corrective, Self-RAG and vectorless RAG with PageIndex) to improve retrieval accuracy and reduce hallucinations.  
+  - Built AI agents that answer business questions from company databases, with role-based access enforced in PostgreSQL.  
+  - Added guardrails for PII redaction, harmful-request blocking and human approval of sensitive actions, and evaluated LLM apps in LangSmith and Langfuse with test datasets and tracing, with a LiteLLM gateway for fallbacks, routing and cost tracking.  
+  - Automated business workflows in n8n across Google Workspace, Supabase, Telegram and WhatsApp, including AI email drafting with human approval and calendar and task assistants.
 
 ### **Associate Software Engineer AI**
 - **Vitruvia Technologies**, Lahore, Pakistan  
-- **Duration:** Nov 2025 – Jun 2026  
+- **Duration:** Jun 2025 – Jun 2026  
 - **Key Contributions:**  
-  - Developed FastAPI backend features for a multi-tenant DICOM medical imaging platform for hospitals and clinics, delivering 7 product requirements including subscriptions, storage purchasing, data archiving and renewal alerts.  
-  - Raised backend test coverage from 41% to 83% with Pytest tests for API endpoints, core services and Celery background jobs.  
-  - Built a shared MinIO storage pool with per-tenant limits and full data isolation, plus admin controls with usage tracking, Stripe payments and Excel usage reports.
+  - Developed and maintained FastAPI backend features for a multi-tenant DICOM medical imaging platform for hospitals and clinics, delivering 7 product requirements such as subscription packages, storage purchasing, medical data archiving and renewal notifications with email alerts.  
+  - Raised backend test coverage from 41% to 83% with Pytest tests for all API endpoints, core services and Celery background jobs, including DICOM delivery and cloud archiving.  
+  - Built a shared MinIO storage pool with per-tenant limits, full data isolation and admin alerts at 85% and 90%, plus admin controls with usage tracking, Stripe payments and 5-sheet Excel usage reports with audit logs.
 
 ### **Freelance Online Seller**
 - **Facebook Marketplace**, UK & Europe  
@@ -82,52 +83,63 @@ I’m always happy to connect about **AI Engineering** roles, collaborations and
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, SQL  
 - **Generative AI:** LangChain, Prompt Engineering, Structured Outputs, Tool Calling, Embeddings  
-- **Agentic AI:** LangGraph, Multi-Agent Systems, ReAct Agents, Human-in-the-Loop, Memory & Persistence, Deep Agents  
+- **Agentic AI:** LangGraph, Multi-Agent Systems, ReAct Agents, MCP (Model Context Protocol), Human-in-the-Loop, Memory & Persistence, Deep Agents  
 - **RAG:** Agentic RAG, Corrective RAG, Self-RAG, Vectorless RAG (PageIndex), Advanced Retrievers, Chroma, FAISS  
 - **LLMOps & Safety:** LangSmith, Langfuse (tracing, monitoring & evaluation), LiteLLM (LLM gateway), Guardrails, PII Redaction  
 - **LLM Providers:** OpenAI, Anthropic (Claude), Google Gemini, Mistral AI, Hugging Face, Ollama (local LLMs)  
 - **Workflow Automation:** n8n, Webhooks, API Integration, Error Handling & Retries, Google Workspace (Gmail, Sheets, Calendar, Tasks), Telegram, WhatsApp  
-- **Backend:** FastAPI, REST APIs, SQLAlchemy, SQLModel, Alembic, Celery, Redis, JWT Auth, Multi-tenancy, Stripe  
-- **Databases & Storage:** PostgreSQL, SQLite, Supabase, MinIO  
-- **DevOps, Testing & Tools:** Git, GitHub, Docker, Docker Compose, Render, Pytest, Unit, Integration & White-box Testing, Claude Code, Cursor  
-- **Frontend:** Familiar with React, Next.js, TypeScript, Tailwind CSS, Streamlit, HTML/CSS  
+- **Backend:** Python, SQL, FastAPI, REST APIs, SQLAlchemy, SQLModel, Alembic, Celery, Redis, JWT Auth, Multi-tenancy, Stripe  
+- **Databases & Storage:** PostgreSQL (Row-Level Security), SQLite, Supabase, MinIO  
+- **DevOps, Testing & Tools:** Git, GitHub, Docker, Docker Compose, GitHub Actions (CI/CD), Render, Railway, Pytest, Unit, Integration & White-box Testing, Claude Code, Cursor  
 - **Web Scraping:** Requests, BeautifulSoup, API-based Data Extraction, JSON/CSV Export  
-- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, EDA, Data Cleaning, Feature Engineering, Hypothesis Testing  
-- **Machine Learning:** Scikit-learn, XGBoost, Regression, Classification, Clustering (K-means, DBSCAN), Model Evaluation, Hyperparameter Tuning, Ensemble Methods (Bagging, Boosting, Stacking)  
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn, EDA, Data Cleaning, Feature Engineering  
+- **Machine Learning:** Scikit-learn, Predictive Modeling (Regression, Classification), Model Evaluation  
+- **Frontend:** Familiar with React, Next.js, TypeScript, Tailwind CSS, Streamlit, HTML/CSS  
 
 ---
 
 ## 🚀 Projects
 
-1. **[AI Hiring & Onboarding Automation](https://github.com/hassankhursheed/novatech-hiring-automation)**  
+1. **[AskData – Self-Service Data Analyst Agent](https://github.com/hassankhursheed/self-service-data-analyst-agent)** · [Live demo](https://ui-production-3b38.up.railway.app) (login on request)  
+   - Answers business questions in plain English with a summary, chart, table and CSV export, asks clarifying questions on vague requests and blocks unsafe queries.  
+   - Read-only, and each user sees only the data their role and region allow, enforced in PostgreSQL. Built with LangGraph, FastAPI, PostgreSQL, Mistral AI and Next.js, and deployed on Railway.  
+
+2. **[AI Hiring & Onboarding Automation](https://github.com/hassankhursheed/novatech-hiring-automation)**  
    - Takes candidates from application to first working day: rule-based CV scoring, advisory AI review, interview booking, HR-approved PDF offers and onboarding tasks.  
    - Runs on 13 n8n workflows with FastAPI, PostgreSQL, React, Mistral AI and Langfuse, with automatic retries, an error queue with replay, a full audit trail and 261 tests at 90% coverage.  
 
-2. **[Multi-Agent AI Research System](https://github.com/hassankhursheed/multi_agent_research_system)** · [Live demo](https://multi-agent-research-system1.onrender.com)  
+3. **[Multi-Agent AI Research System](https://github.com/hassankhursheed/multi_agent_research_system)** · [Live demo](https://multi-agent-research-system1.onrender.com)  
    - Agents research any topic and generate a final research report and a critic report, downloadable by the user.  
    - Built with LangChain, Mistral AI, Tavily and Streamlit, and deployed on Render.  
 
-3. **[Radiology Report Management System](https://github.com/hassankhursheed/radiology-report-management-system)**  
+4. **[Medical Report Management System](https://github.com/hassankhursheed/radiology-report-management-system)**  
    - Create, search, update and delete medical reports, export them to Word and re-upload edited files to update records.  
    - QR codes for online report viewing and a blood test reports page, built with FastAPI, PostgreSQL and python-docx.  
 
-4. **[SaaS Subscription Flow with Stripe](https://github.com/hassankhursheed/saas-subscription-flow-fastapi-stripe)**  
+5. **[SaaS Subscription Flow with Stripe](https://github.com/hassankhursheed/saas-subscription-flow-fastapi-stripe)**  
    - Package selection, sign-up and sign-in, Stripe payment and confirmation, with a dashboard for returning subscribers.  
    - Built with FastAPI, PostgreSQL and an HTML, CSS and JavaScript frontend.  
 
-5. **[Multi-Tenant Healthcare System](https://github.com/hassankhursheed/multi-tenant-healthcare-jwt-system)**  
-   - Single-database system for multiple hospitals and clinics with JWT auth and isolated tenant data, where each tenant manages its own staff users and roles.  
+6. **[Multi-Tenant Healthcare API](https://github.com/hassankhursheed/multi-tenant-healthcare-jwt-system)**  
+   - Single-database API for multiple hospitals and clinics with JWT auth and isolated tenant data, where each tenant manages its own staff users and roles.  
    - A FastAPI REST API and a Streamlit dashboard on PostgreSQL with SQLAlchemy.  
 
-6. **[Weather Data Scraper API](https://github.com/hassankhursheed/secure-weather-scraper-fastapi-streamlit)** · [Live API](https://vitruvia-tech-scraper-4.onrender.com/docs)  
+7. **[Weather Data Scraper API](https://github.com/hassankhursheed/secure-weather-scraper-fastapi-streamlit)** · [Live API](https://vitruvia-tech-scraper-4.onrender.com/docs)  
    - API-based scraper with a login-protected Streamlit UI that fetches city weather as JSON and exports it to CSV or JSON.  
    - Saves every lookup to SQLite and exposes an API-key-secured REST endpoint deployed on Render.  
 
-7. **[ML & Web Scraping Projects](https://github.com/hassankhursheed/vitruvia_tech)**  
+8. **[ML & Web Scraping Projects](https://github.com/hassankhursheed/vitruvia_tech)**  
    - Booking.com and Amazon scrapers, a heart disease prediction app, and machine learning notebooks for regression, classification, ensembles and clustering.  
    - A FastAPI product API with Pydantic validation.  
+
+---
+
+## 📜 Certifications
+
+- **Introduction to LangChain – Python** · LangChain Academy · [Verify](https://academy.langchain.com/certificates/7eyklgq9bu)  
+- **Introduction to LangGraph – Python** · LangChain Academy · [Verify](https://academy.langchain.com/certificates/fbm2pvgail)  
+- **Quickstart: LangSmith Essentials** · LangChain Academy · [Verify](https://academy.langchain.com/certificates/9qucz7iq9x)  
 
 ---
 
